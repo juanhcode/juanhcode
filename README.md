@@ -42,7 +42,7 @@ My name is Juan Manuel Hoyos and I'm a software developer. I'm from Colombia.
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://assets.stickpng.com/images/584815fdcef1014c0b5e497a.png" width="48" height="48" alt="Bootstrap" />
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>PostgreSQL
     </td>
